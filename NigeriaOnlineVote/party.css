@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.vote-content {
+    display: flex;
+    align-items: center
+}
+
+.vote-info {
+    padding: 0.5em
+}
+
+img {
+    margin: 0.5em
+}
